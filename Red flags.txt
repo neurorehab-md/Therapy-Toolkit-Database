@@ -1,5 +1,5 @@
 ID: 177ea893-7621-4752-a181-4bdb0052da70
-Name: Compartment syndrom
-Description: Numbnesss and tingling of the hand and pain with hand use.
+Name: Compartment syndrome
+Description: Numbness and tingling of the hand and pain with hand use.
 Associated Presentations: []
  
