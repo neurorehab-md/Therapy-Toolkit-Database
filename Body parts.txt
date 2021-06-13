@@ -4,5 +4,5 @@ Description: A soft-tissue structure of the wrist.
  
 ID: e9939b9e-ceda-46d0-9c8e-0def545a43c8
 Name: Thumb
-Description: The first digit on the hand.
+Description: The first digit on the hand!
  
