@@ -1,6 +1,6 @@
 ID: ed670497-95ea-4fcb-baf2-d17b30ec2294
-Name: Blank
-Description: 
-Associated presentations: []
-Associated conditions: []
+Name: Differential test
+Description: Description...
+Associated presentations: [PresentationStub(id=034e4e11-5ec5-417c-8168-e53f9f292dab, name=Numbness and tingling of the wrist and hand which worsens with use)]
+Associated conditions: [ConditionStub(id=7fc0be96-28e3-4120-a8de-706be14026de, name=Condition 3), ConditionStub(id=7b11ed8c-1ea5-43c4-a526-9376d6ff4b66, name=Condition 2), ConditionStub(id=288517a0-eb70-4fb6-b297-c0133c17f647, name=Condition 1)]
  

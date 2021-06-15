@@ -1,11 +1,11 @@
 ID: 288517a0-eb70-4fb6-b297-c0133c17f647
-Name: Blank 1
-Description: Desc 1
+Name: Condition 1
+Description: Description...
 Precautions: 
 Standard of care: 
-Presentations: []
-Differential tests: []
-Body parts: []
-Red flags: []
-Functional limitations: []
+Presentations: [GradedPresentation(presentation=PresentationStub(id=034e4e11-5ec5-417c-8168-e53f9f292dab, name=Numbness and tingling of the wrist and hand which worsens with use), scoreIfPresent=0, scoreIfAbsent=0)]
+Differential tests: [GradedDifferentialTest(differentialTest=DifferentialTestStub(id=ed670497-95ea-4fcb-baf2-d17b30ec2294, name=Differential test), scoreIfPositive=0, scoreIfNegative=0)]
+Body parts: [BodyPartStub(id=8207600b-706e-4644-921a-25699404f963, name=Carpal Tunnel)]
+Red flags: [RedFlagStub(id=177ea893-7621-4752-a181-4bdb0052da70, name=Compartment syndrome)]
+Functional limitations: [FunctionalLimitation(id=438e736b-1cec-436f-98a8-8af1bf01ec19, name=Blank, description=, functionalGoals=[])]
 Related conditions: 
