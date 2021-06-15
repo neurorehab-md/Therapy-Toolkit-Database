@@ -1,6 +1,6 @@
 ID: 288517a0-eb70-4fb6-b297-c0133c17f647
-Name: Condition 12
-Description: Description...
+Name: Condition 1
+Description: Description 1...
 Precautions: 
 Standard of care: 
 Presentations: [GradedPresentation(presentation=PresentationStub(id=034e4e11-5ec5-417c-8168-e53f9f292dab, name=Numbness and tingling of the wrist and hand which worsens with use), scoreIfPresent=0, scoreIfAbsent=0)]
