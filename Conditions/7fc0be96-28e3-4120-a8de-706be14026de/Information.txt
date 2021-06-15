@@ -1,6 +1,6 @@
 ID: 7fc0be96-28e3-4120-a8de-706be14026de
 Name: Condition 3
-Description: Description...
+Description: Description 3...
 Precautions: 
 Standard of care: 
 Presentations: []
