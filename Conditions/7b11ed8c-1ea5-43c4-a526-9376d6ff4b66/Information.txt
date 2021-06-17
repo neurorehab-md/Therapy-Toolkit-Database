@@ -3,9 +3,9 @@ Name: Condition 2
 Description: Description 2...
 Precautions: 
 Standard of care: 
-Presentations: []
+Presentations: [GradedPresentation(presentation=PresentationStub(id=034e4e11-5ec5-417c-8168-e53f9f292dab, name=Numbness and tingling of the wrist and hand which worsens with use), scoreIfPresent=0, scoreIfAbsent=0)]
 Differential tests: []
-Body parts: []
-Red flags: []
+Body parts: [BodyPartStub(id=8207600b-706e-4644-921a-25699404f963, name=Carpal Tunnel)]
+Red flags: [RedFlagStub(id=177ea893-7621-4752-a181-4bdb0052da70, name=Compartment syndrome)]
 Functional limitations: []
 Related conditions: 
