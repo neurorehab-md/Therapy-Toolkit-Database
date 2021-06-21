@@ -1,5 +1,5 @@
 ID: 034e4e11-5ec5-417c-8168-e53f9f292dab
 Name: Numbness and tingling of the wrist and hand which worsens with use
 Description: 
-Red flags: [RedFlagStub(id=177ea893-7621-4752-a181-4bdb0052da70, name=Compartment syndrom)]
+Red flags: [RedFlagStub(id=177ea893-7621-4752-a181-4bdb0052da70, name=Compartment syndrome)]
  
