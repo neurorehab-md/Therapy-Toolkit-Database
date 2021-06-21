@@ -4,7 +4,7 @@ Description: Description 1
 Precautions: 
 Standard of care: 
 Presentations: [GradedPresentation(presentation=PresentationStub(id=034e4e11-5ec5-417c-8168-e53f9f292dab, name=Numbness and tingling of the wrist and hand which worsens with use), scoreIfPresent=0, scoreIfAbsent=0)]
-Differential tests: [GradedDifferentialTest(differentialTest=DifferentialTestStub(id=ed670497-95ea-4fcb-baf2-d17b30ec2294, name=Differential test), scoreIfPositive=0, scoreIfNegative=0)]
+Differential tests: [GradedDifferentialTest(differentialTest=DifferentialTestStub(id=ed670497-95ea-4fcb-baf2-d17b30ec2294, name=Differential test 1), scoreIfPositive=0, scoreIfNegative=0)]
 Body parts: []
 Red flags: []
 Functional limitations: [FunctionalLimitation(id=438e736b-1cec-436f-98a8-8af1bf01ec19, name=Functional limitation, description=Description..., functionalGoals=[FunctionalGoalStub(id=8b9ae82e-14d7-453c-bcc9-f55ca5d33ec8, name=Increased range of motion), FunctionalGoalStub(id=d2c18058-f319-4457-a104-6f58845d28d8, name=Reduced pain)])]
