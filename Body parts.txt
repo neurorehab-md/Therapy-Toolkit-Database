@@ -1,4 +1,3 @@
 ID: 8207600b-706e-4644-921a-25699404f963
 Name: Carpal Tunnel
-Description: A soft-tissue structure of the wrist.
- 
+Description: A soft-tissue structure of the wrist. 
